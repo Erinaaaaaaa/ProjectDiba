@@ -1,0 +1,11 @@
+﻿{
+  "solution": {
+    "path": "ProjectDiba.sln",
+    "projects": [
+      "ProjectDiba.Desktop\\ProjectDiba.Desktop.csproj",
+      "ProjectDiba.Game\\ProjectDiba.Game.csproj",
+      "ProjectDiba.Game.Tests\\ProjectDiba.Game.Tests.csproj",
+      "ProjectDiba.Resources\\ProjectDiba.Resources.csproj"
+    ]
+  }
+}
